@@ -1,0 +1,17 @@
+--- omnitty-0.2.7/Makefile.in~	2004-10-08 03:22:56.000000000 +0000
++++ omnitty-0.2.7/Makefile.in	2004-10-19 04:12:15.483784968 +0000
+@@ -32,10 +32,10 @@
+ 	rm -f configure
+ 
+ install: omnitty
+-	mkdir -p $(bindir)
+-	cp omnitty $(bindir)
+-	mkdir -p $(mandir)/man1
+-	cp omnitty.1 $(mandir)/man1
++	mkdir -p $(DESTDIR)$(bindir)
++	cp omnitty $(DESTDIR)$(bindir)
++	mkdir -p $(DESTDIR)$(mandir)/man1
++	cp omnitty.1 $(DESTDIR)$(mandir)/man1
+ 
+ .PHONY: distclean clean pristine
+ 
