@@ -7,7 +7,6 @@ License:	GPL
 Group:		Applications/Terminal
 Source0:	http://dl.sourceforge.net/omnitty/%{name}-%{version}.tar.gz
 # Source0-md5:	b83a3a756dfbfb1c6b1d2344ef0ab3fc
-# Source0-size:	51200
 URL:		http://omnitty.sourceforge.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
