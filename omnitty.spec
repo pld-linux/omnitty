@@ -5,7 +5,7 @@ Version:	0.2.7
 Release:	1
 License:	GPL
 Group:		Applications/Terminal
-Source0:	http://prdownloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
+Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 # Source0-md5:	c3804b08bfb7484abe0fc157a15ac3b8
 # Source0-size:	51200
 Patch0:		%{name}-DESTDIR.patch
