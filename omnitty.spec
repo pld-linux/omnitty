@@ -10,6 +10,8 @@ Source0:	http://prdownloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 # Source0-size:	51200
 Patch0:		%{name}-DESTDIR.patch
 URL:		http://omnitty.sourceforge.net/
+BuildRequires:	autoconf
+BuildRequires:	automake
 BuildRequires:	rote-devel
 BuildRequires:	ncurses-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
