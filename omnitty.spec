@@ -1,12 +1,12 @@
 Summary:	Omnitty Multiple-Machine SSH Multiplexer
 Summary(pl):	Rozdzielacz SSH wielu maszyn
 Name:		omnitty
-Version:	0.2.8
+Version:	0.2.9
 Release:	1
 License:	GPL
 Group:		Applications/Terminal
 Source0:	http://dl.sourceforge.net/omnitty/%{name}-%{version}.tar.gz
-# Source0-md5:	b83a3a756dfbfb1c6b1d2344ef0ab3fc
+# Source0-md5:	4713dc517b08710656f38584beb8fbab
 URL:		http://omnitty.sourceforge.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
