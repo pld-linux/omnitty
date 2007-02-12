@@ -1,5 +1,5 @@
 Summary:	Omnitty Multiple-Machine SSH Multiplexer
-Summary(pl):	Rozdzielacz SSH wielu maszyn
+Summary(pl.UTF-8):   Rozdzielacz SSH wielu maszyn
 Name:		omnitty
 Version:	0.3.0
 Release:	1
@@ -20,11 +20,11 @@ interact with several machines simultaneously, selectively directing
 input to individual machines or groups of selected machines. Very
 useful as a multiple-host network administration tool.
 
-%description -l pl
-Omnitty jest opartym na curses programem pozwalaj±cym raz zalogowaæ
-siê i pracowaæ z wieloma maszynami jednocze¶nie, wybieraj±c
-bezpo¶rednie wej¶cie na poszczególne maszyny lub grupy maszyn. Bardzo
-u¿yteczny jako narzêdzie administracyjne w wielokomputerowych
+%description -l pl.UTF-8
+Omnitty jest opartym na curses programem pozwalajÄ…cym raz zalogowaÄ‡
+siÄ™ i pracowaÄ‡ z wieloma maszynami jednoczeÅ›nie, wybierajÄ…c
+bezpoÅ›rednie wejÅ›cie na poszczegÃ³lne maszyny lub grupy maszyn. Bardzo
+uÅ¼yteczny jako narzÄ™dzie administracyjne w wielokomputerowych
 sieciach.
 
 %prep
