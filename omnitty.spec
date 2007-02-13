@@ -1,5 +1,5 @@
 Summary:	Omnitty Multiple-Machine SSH Multiplexer
-Summary(pl.UTF-8):   Rozdzielacz SSH wielu maszyn
+Summary(pl.UTF-8):	Rozdzielacz SSH wielu maszyn
 Name:		omnitty
 Version:	0.3.0
 Release:	1
